@@ -1,0 +1,2747 @@
+/*!*common css start*!*/
+/** {*/
+/*	margin: 0;*/
+/*	padding: 0;*/
+/*	box-sizing: border-box;*/
+/*}*/
+
+
+/*ol, ul, li {*/
+/*	list-style: none;*/
+/*	display: inline-block;*/
+/*}*/
+
+/*a, a:hover, a:focus {*/
+/*	text-decoration: none;*/
+/*	display: inline-block;*/
+/*}*/
+
+/*h1, h2, h3, h4, h5, h6, p {*/
+/*	margin-bottom: 0;*/
+/*}*/
+
+/*body {*/
+/*	overflow-x: hidden;*/
+/*	position: relative;*/
+/*}*/
+
+/*.title {*/
+/*	text-align: center;*/
+/*	padding: 40px 0;*/
+/*}*/
+
+/*.title h3 {*/
+/*	font-family: 'Raleway', sans-serif;*/
+/*	font-weight: 600;*/
+/*	font-size: 30px;*/
+/*	color: #363636;*/
+/*}*/
+
+/*.title p {*/
+/*	font-family: 'Roboto', sans-serif;*/
+/*	font-weight: 400;*/
+/*	font-size: 14px;*/
+/*	position: relative;*/
+/*	color: #959595;*/
+/*	padding: 20px;*/
+/*	width: 600px;*/
+/*	margin: 0 auto;*/
+/*}*/
+
+/*.title p::before {*/
+/*	position: absolute;*/
+/*	bottom: 0;*/
+/*	left: 50%;*/
+/*	content: "";*/
+/*	width: 40%;*/
+/*	height: 3px;*/
+/*	transition: 0.4s;*/
+/*	background: #363636;*/
+/*	transform: translateX(-50%);*/
+
+/*}*/
+
+/*!*common css stop*!*/
+ 
+ #background 
+{ 
+	 left: 0;
+	 top: 0;
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 7585px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0;
+	 top: 0;
+	 position: absolute; 
+	 width: 1920px;
+	 height: 7585px;
+	 z-index:1;
+} 
+
+ #BackgrundShape 
+{ 
+	 left: -1px; 
+	 top: 6993px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 593px;
+	 z-index:2;
+} 
+
+ #Copyright2019Allrigh 
+{ 
+	 left: 809px; 
+	 top: 7541px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 14px;
+	 z-index:3;
+} 
+
+ #Shape 
+{ 
+	 left: 773px; 
+	 top: 7407px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 75px;
+	 z-index:4;
+} 
+
+ #layer_5 
+{ 
+	 left: 805px; 
+	 top: 7435px; 
+	 position: absolute; 
+	 width: 10px;
+	 height: 21px;
+	 z-index:5;
+} 
+
+ #Shape_0 
+{ 
+	 left: 873px; 
+	 top: 7407px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 75px;
+	 z-index:6;
+} 
+
+ #layer_7 
+{ 
+	 left: 900px; 
+	 top: 7437px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:7;
+} 
+
+ #Shape_1 
+{ 
+	 left: 973px; 
+	 top: 7407px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 75px;
+	 z-index:8;
+} 
+
+ #layer_9 
+{ 
+	 left: 1000px; 
+	 top: 7436px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 19px;
+	 z-index:9;
+} 
+
+ #Shape_2 
+{ 
+	 left: 1073px; 
+	 top: 7407px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 75px;
+	 z-index:10;
+} 
+
+ #layer_11 
+{ 
+	 left: 1100px; 
+	 top: 7437px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:11;
+} 
+
+ #LineShape02 
+{ 
+	 left: 1173px; 
+	 top: 7443px; 
+	 position: absolute; 
+	 width: 748px;
+	 height: 4px;
+	 z-index:12;
+} 
+
+ #LineShape01 
+{ 
+	 left: -1px; 
+	 top: 7443px; 
+	 position: absolute; 
+	 width: 747px;
+	 height: 4px;
+	 z-index:13;
+} 
+
+ #HomeTermsCond 
+{ 
+	 left: 608px; 
+	 top: 7362px; 
+	 position: absolute; 
+	 width: 703px;
+	 height: 17px;
+	 z-index:14;
+} 
+
+ #Shape_3 
+{ 
+	 left: 1173px; 
+	 top: 7188px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 75px;
+	 z-index:15;
+} 
+
+ #layer_16 
+{ 
+	 left: 1200px; 
+	 top: 7218px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 16px;
+	 z-index:16;
+} 
+
+ #kidsurekindergartenc 
+{ 
+	 left: 1275px; 
+	 top: 7205px; 
+	 position: absolute; 
+	 width: 221px;
+	 height: 43px;
+	 z-index:17;
+} 
+
+ #Shape_4 
+{ 
+	 left: 773px; 
+	 top: 7188px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 75px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 800px; 
+	 top: 7216px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 21px;
+	 z-index:19;
+} 
+
+ #layer_88012345678908809876 
+{ 
+	 left: 875px; 
+	 top: 7203px; 
+	 position: absolute; 
+	 width: 172px;
+	 height: 44px;
+	 z-index:20;
+} 
+
+ #Shape_5 
+{ 
+	 left: 373px; 
+	 top: 7188px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 75px;
+	 z-index:21;
+} 
+
+ #layer_22 
+{ 
+	 left: 403px; 
+	 top: 7216px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 20px;
+	 z-index:22;
+} 
+
+ #1234ParkstreetAvenue 
+{ 
+	 left: 474px; 
+	 top: 7205px; 
+	 position: absolute; 
+	 width: 206px;
+	 height: 43px;
+	 z-index:23;
+} 
+
+ #Logo 
+{ 
+	 left: 815px; 
+	 top: 7075px; 
+	 position: absolute; 
+	 width: 291px;
+	 height: 56px;
+	 z-index:24;
+} 
+
+ #Shape_6 
+{ 
+	 left: 908px; 
+	 top: 6943px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 103px;
+	 z-index:25;
+} 
+
+ #layer_26 
+{ 
+	 left: 948px; 
+	 top: 6984px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 23px;
+	 z-index:26;
+} 
+
+ #ButtonShape 
+{ 
+	 left: 880px; 
+	 top: 6776px; 
+	 position: absolute; 
+	 width: 160px;
+	 height: 70px;
+	 z-index:27;
+} 
+
+ #BrowseAll 
+{ 
+	 left: 904px; 
+	 top: 6804px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 17px;
+	 z-index:28;
+} 
+
+ #BackgroundShape 
+{ 
+	 left: 1173px; 
+	 top: 6407px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 272px;
+	 z-index:29;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 1211px; 
+	 top: 6580px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 68px;
+	 z-index:30;
+} 
+
+ #PlayingwithDollsothe 
+{ 
+	 left: 1252px; 
+	 top: 6499px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 51px;
+	 z-index:31;
+} 
+
+ #PostedbyAdmin14k 
+{ 
+	 left: 1235px; 
+	 top: 6469px; 
+	 position: absolute; 
+	 width: 247px;
+	 height: 16px;
+	 z-index:32;
+} 
+
+ #ImageBackground 
+{ 
+	 left: 1173px; 
+	 top: 6088px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 323px;
+	 z-index:33;
+} 
+
+ #kinderdagverblijfuit 
+{ 
+	 left: 1071px; 
+	 top: 6085px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 328px;
+	 z-index:34;
+} 
+
+ #OverlayShape 
+{ 
+	 left: 1173px; 
+	 top: 6088px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 323px;
+	 z-index:35;
+} 
+
+ #BackgroundShape_0 
+{ 
+	 left: 1304px; 
+	 top: 6328px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 113px;
+	 z-index:36;
+} 
+
+ #31Dec 
+{ 
+	 left: 1336px; 
+	 top: 6357px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 58px;
+	 z-index:37;
+} 
+
+ #Shape_7 
+{ 
+	 left: 1268px; 
+	 top: 6098px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 27px;
+	 z-index:38;
+} 
+
+ #entertainment 
+{ 
+	 left: 1284px; 
+	 top: 6105px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 12px;
+	 z-index:39;
+} 
+
+ #Shape_8 
+{ 
+	 left: 1184px; 
+	 top: 6098px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 27px;
+	 z-index:40;
+} 
+
+ #playing 
+{ 
+	 left: 1200px; 
+	 top: 6105px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 14px;
+	 z-index:41;
+} 
+
+ #BackgroundShape_1 
+{ 
+	 left: 773px; 
+	 top: 6407px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 312px;
+	 z-index:42;
+} 
+
+ #Loremipsumdolorsitam_0 
+{ 
+	 left: 811px; 
+	 top: 6580px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 68px;
+	 z-index:43;
+} 
+
+ #SketchandColorizethe 
+{ 
+	 left: 829px; 
+	 top: 6499px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 47px;
+	 z-index:44;
+} 
+
+ #PostedbyAdmin14k_0 
+{ 
+	 left: 835px; 
+	 top: 6469px; 
+	 position: absolute; 
+	 width: 247px;
+	 height: 16px;
+	 z-index:45;
+} 
+
+ #ImageBackground_0 
+{ 
+	 left: 773px; 
+	 top: 6048px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 363px;
+	 z-index:46;
+} 
+
+ #cocomielcentroinfant 
+{ 
+	 left: 700px; 
+	 top: 6047px; 
+	 position: absolute; 
+	 width: 528px;
+	 height: 364px;
+	 z-index:47;
+} 
+
+ #OverlayShape_0 
+{ 
+	 left: 773px; 
+	 top: 6048px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 363px;
+	 z-index:48;
+} 
+
+ #BackgroundShape_2 
+{ 
+	 left: 903px; 
+	 top: 6328px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 113px;
+	 z-index:49;
+} 
+
+ #17June 
+{ 
+	 left: 928px; 
+	 top: 6358px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 57px;
+	 z-index:50;
+} 
+
+ #Shape_9 
+{ 
+	 left: 936px; 
+	 top: 6058px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 27px;
+	 z-index:51;
+} 
+
+ #colorize 
+{ 
+	 left: 952px; 
+	 top: 6065px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 12px;
+	 z-index:52;
+} 
+
+ #Shape_10 
+{ 
+	 left: 872px; 
+	 top: 6058px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 27px;
+	 z-index:53;
+} 
+
+ #play 
+{ 
+	 left: 889px; 
+	 top: 6065px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 14px;
+	 z-index:54;
+} 
+
+ #Shape_11 
+{ 
+	 left: 783px; 
+	 top: 6058px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 27px;
+	 z-index:55;
+} 
+
+ #drawing 
+{ 
+	 left: 799px; 
+	 top: 6065px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 14px;
+	 z-index:56;
+} 
+
+ #ReadMore 
+{ 
+	 left: 913px; 
+	 top: 6673px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 15px;
+	 z-index:57;
+} 
+
+ #BackgroundShape_3 
+{ 
+	 left: 374px; 
+	 top: 6407px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 272px;
+	 z-index:58;
+} 
+
+ #Loremipsumdolorsitam_1 
+{ 
+	 left: 411px; 
+	 top: 6580px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 68px;
+	 z-index:59;
+} 
+
+ #HandmadeCraftbyUsing 
+{ 
+	 left: 421px; 
+	 top: 6499px; 
+	 position: absolute; 
+	 width: 276px;
+	 height: 51px;
+	 z-index:60;
+} 
+
+ #PostedbyAdmin14k_1 
+{ 
+	 left: 435px; 
+	 top: 6469px; 
+	 position: absolute; 
+	 width: 247px;
+	 height: 16px;
+	 z-index:61;
+} 
+
+ #ImageBackground_1 
+{ 
+	 left: 374px; 
+	 top: 6088px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 323px;
+	 z-index:62;
+} 
+
+ #shutterstock39983996 
+{ 
+	 left: 235px; 
+	 top: 6058px; 
+	 position: absolute; 
+	 width: 576px;
+	 height: 385px;
+	 z-index:63;
+} 
+
+ #OverlayShape_1 
+{ 
+	 left: 374px; 
+	 top: 6088px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 323px;
+	 z-index:64;
+} 
+
+ #BackgroundShape_4 
+{ 
+	 left: 503px; 
+	 top: 6328px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 113px;
+	 z-index:65;
+} 
+
+ #26Oct 
+{ 
+	 left: 537px; 
+	 top: 6357px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 58px;
+	 z-index:66;
+} 
+
+ #Shape_12 
+{ 
+	 left: 533px; 
+	 top: 6098px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 27px;
+	 z-index:67;
+} 
+
+ #education 
+{ 
+	 left: 549px; 
+	 top: 6105px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 12px;
+	 z-index:68;
+} 
+
+ #Shape_13 
+{ 
+	 left: 472px; 
+	 top: 6098px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 27px;
+	 z-index:69;
+} 
+
+ #skill 
+{ 
+	 left: 488px; 
+	 top: 6105px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 12px;
+	 z-index:70;
+} 
+
+ #Shape_14 
+{ 
+	 left: 383px; 
+	 top: 6098px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 27px;
+	 z-index:71;
+} 
+
+ #learning 
+{ 
+	 left: 400px; 
+	 top: 6105px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 14px;
+	 z-index:72;
+} 
+
+ #LineShape02_0 
+{ 
+	 left: 1002px; 
+	 top: 5888px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 4px;
+	 z-index:73;
+} 
+
+ #LineShape01_0 
+{ 
+	 left: 839px; 
+	 top: 5888px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 4px;
+	 z-index:74;
+} 
+
+ #OurLatestNewsYouCanG 
+{ 
+	 left: 735px; 
+	 top: 5911px; 
+	 position: absolute; 
+	 width: 449px;
+	 height: 73px;
+	 z-index:75;
+} 
+
+ #ourblogs 
+{ 
+	 left: 926px; 
+	 top: 5882px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 16px;
+	 z-index:76;
+} 
+
+ #IconShape 
+{ 
+	 left: 243px; 
+	 top: 5539px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 73px;
+	 z-index:77;
+} 
+
+ #layer_78 
+{ 
+	 left: 275px; 
+	 top: 5568px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:78;
+} 
+
+ #IconShape_0 
+{ 
+	 left: 1604px; 
+	 top: 5539px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 73px;
+	 z-index:79;
+} 
+
+ #layer_80 
+{ 
+	 left: 1636px; 
+	 top: 5568px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:80;
+} 
+
+ #BackgroundShape_5 
+{ 
+	 left: 974px; 
+	 top: 5427px; 
+	 position: absolute; 
+	 width: 572px;
+	 height: 296px;
+	 z-index:81;
+} 
+
+ #ImageBackground_2 
+{ 
+	 left: 1033px; 
+	 top: 5614px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 169px;
+	 z-index:82;
+} 
+
+ #DfLZ3d9X4AIyjSZ 
+{ 
+	 left: 946px; 
+	 top: 5614px; 
+	 position: absolute; 
+	 width: 314px;
+	 height: 210px;
+	 z-index:83;
+} 
+
+ #layer_84 
+{ 
+	 left: 1215px; 
+	 top: 5684px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 18px;
+	 z-index:84;
+} 
+
+ #OliviasDad 
+{ 
+	 left: 1212px; 
+	 top: 5659px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 13px;
+	 z-index:85;
+} 
+
+ #AlonsoLon 
+{ 
+	 left: 1212px; 
+	 top: 5628px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 17px;
+	 z-index:86;
+} 
+
+ #Loremipsumdolorsitam_2 
+{ 
+	 left: 1035px; 
+	 top: 5489px; 
+	 position: absolute; 
+	 width: 445px;
+	 height: 97px;
+	 z-index:87;
+} 
+
+ #BackgroundShape_6 
+{ 
+	 left: 374px; 
+	 top: 5427px; 
+	 position: absolute; 
+	 width: 572px;
+	 height: 296px;
+	 z-index:88;
+} 
+
+ #ImageBackground_3 
+{ 
+	 left: 433px; 
+	 top: 5614px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 169px;
+	 z-index:89;
+} 
+
+ #iStock673180650 
+{ 
+	 left: 321px; 
+	 top: 5554px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 259px;
+	 z-index:90;
+} 
+
+ #layer_91 
+{ 
+	 left: 615px; 
+	 top: 5684px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 18px;
+	 z-index:91;
+} 
+
+ #SophiasMom 
+{ 
+	 left: 611px; 
+	 top: 5659px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 15px;
+	 z-index:92;
+} 
+
+ #AlvinaMandy 
+{ 
+	 left: 612px; 
+	 top: 5626px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 23px;
+	 z-index:93;
+} 
+
+ #Loremipsumdolorsitam_3 
+{ 
+	 left: 435px; 
+	 top: 5489px; 
+	 position: absolute; 
+	 width: 445px;
+	 height: 97px;
+	 z-index:94;
+} 
+
+ #LineShape02_1 
+{ 
+	 left: 1009px; 
+	 top: 5271px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 4px;
+	 z-index:95;
+} 
+
+ #LineShape01_1 
+{ 
+	 left: 847px; 
+	 top: 5271px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 4px;
+	 z-index:96;
+} 
+
+ #OurGreatFeedbacksfro 
+{ 
+	 left: 722px; 
+	 top: 5294px; 
+	 position: absolute; 
+	 width: 475px;
+	 height: 75px;
+	 z-index:97;
+} 
+
+ #testimonial 
+{ 
+	 left: 918px; 
+	 top: 5267px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 13px;
+	 z-index:98;
+} 
+
+ #IconShape_1 
+{ 
+	 left: 881px; 
+	 top: 5095px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 73px;
+	 z-index:99;
+} 
+
+ #layer_100 
+{ 
+	 left: 913px; 
+	 top: 5124px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:100;
+} 
+
+ #IconShape_2 
+{ 
+	 left: 966px; 
+	 top: 5095px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 73px;
+	 z-index:101;
+} 
+
+ #layer_102 
+{ 
+	 left: 999px; 
+	 top: 5124px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:102;
+} 
+
+ #ImageBackground_4 
+{ 
+	 left: 1573px; 
+	 top: 4665px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 373px;
+	 z-index:103;
+} 
+
+ #5cb6c4dae8057 
+{ 
+	 left: 1355px; 
+	 top: 4629px; 
+	 position: absolute; 
+	 width: 639px;
+	 height: 424px;
+	 z-index:104;
+} 
+
+ #ImageBackground_5 
+{ 
+	 left: 1173px; 
+	 top: 4665px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 373px;
+	 z-index:105;
+} 
+
+ #Kidzee 
+{ 
+	 left: 877px; 
+	 top: 4520px; 
+	 position: absolute; 
+	 width: 819px;
+	 height: 519px;
+	 z-index:106;
+} 
+
+ #ImageBackground_6 
+{ 
+	 left: 773px; 
+	 top: 4665px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 373px;
+	 z-index:107;
+} 
+
+ #cocomielcentroinfant_0 
+{ 
+	 left: 677px; 
+	 top: 4632px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 414px;
+	 z-index:108;
+} 
+
+ #ImageBackground_7 
+{ 
+	 left: 373px; 
+	 top: 4665px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 373px;
+	 z-index:109;
+} 
+
+ #UHU423GSYNEHDB5LMQGG 
+{ 
+	 left: 330px; 
+	 top: 4652px; 
+	 position: absolute; 
+	 width: 421px;
+	 height: 400px;
+	 z-index:110;
+} 
+
+ #ImageBackground_8 
+{ 
+	 left: -27px; 
+	 top: 4665px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 373px;
+	 z-index:111;
+} 
+
+ #enfantssurdouese1529 
+{ 
+	 left: -212px; 
+	 top: 4665px; 
+	 position: absolute; 
+	 width: 562px;
+	 height: 375px;
+	 z-index:112;
+} 
+
+ #LineShape02_2 
+{ 
+	 left: 1007px; 
+	 top: 4511px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 4px;
+	 z-index:113;
+} 
+
+ #LineShape01_2 
+{ 
+	 left: 847px; 
+	 top: 4511px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 4px;
+	 z-index:114;
+} 
+
+ #KidsuresSpecialMomen 
+{ 
+	 left: 720px; 
+	 top: 4531px; 
+	 position: absolute; 
+	 width: 481px;
+	 height: 76px;
+	 z-index:115;
+} 
+
+ #ourgallery 
+{ 
+	 left: 922px; 
+	 top: 4505px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 16px;
+	 z-index:116;
+} 
+
+ #ImageBackground_9 
+{ 
+	 left: 1274px; 
+	 top: 3954px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 273px;
+	 z-index:117;
+} 
+
+ #adultblurbrickwalls8 
+{ 
+	 left: 1077px; 
+	 top: 3903px; 
+	 position: absolute; 
+	 width: 683px;
+	 height: 457px;
+	 z-index:118;
+} 
+
+ #DanceTeacher 
+{ 
+	 left: 1355px; 
+	 top: 4285px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 13px;
+	 z-index:119;
+} 
+
+ #GeorgeNoah 
+{ 
+	 left: 1316px; 
+	 top: 4248px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 27px;
+	 z-index:120;
+} 
+
+ #IconShape_3 
+{ 
+	 left: 1473px; 
+	 top: 3961px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 73px;
+	 z-index:121;
+} 
+
+ #layer_122 
+{ 
+	 left: 1498px; 
+	 top: 3995px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 6px;
+	 z-index:122;
+} 
+
+ #ImageBackground_10 
+{ 
+	 left: 974px; 
+	 top: 3954px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 273px;
+	 z-index:123;
+} 
+
+ #5c86043fbc61e 
+{ 
+	 left: 929px; 
+	 top: 3958px; 
+	 position: absolute; 
+	 width: 629px;
+	 height: 450px;
+	 z-index:124;
+} 
+
+ #PhysicsTeacher 
+{ 
+	 left: 1051px; 
+	 top: 4285px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 15px;
+	 z-index:125;
+} 
+
+ #BarbaraDaisy 
+{ 
+	 left: 1010px; 
+	 top: 4246px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 29px;
+	 z-index:126;
+} 
+
+ #IconShape_4 
+{ 
+	 left: 1173px; 
+	 top: 3961px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 73px;
+	 z-index:127;
+} 
+
+ #layer_128 
+{ 
+	 left: 1201px; 
+	 top: 3989px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 18px;
+	 z-index:128;
+} 
+
+ #layer_129 
+{ 
+	 left: 1028px; 
+	 top: 4317px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 21px;
+	 z-index:129;
+} 
+
+ #ImageBackground_11 
+{ 
+	 left: 674px; 
+	 top: 3954px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 273px;
+	 z-index:130;
+} 
+
+ #5c8605b06d087 
+{ 
+	 left: 361px; 
+	 top: 3933px; 
+	 position: absolute; 
+	 width: 901px;
+	 height: 602px;
+	 z-index:131;
+} 
+
+ #MusicTeacher 
+{ 
+	 left: 758px; 
+	 top: 4285px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 13px;
+	 z-index:132;
+} 
+
+ #CharlieJack 
+{ 
+	 left: 724px; 
+	 top: 4246px; 
+	 position: absolute; 
+	 width: 172px;
+	 height: 24px;
+	 z-index:133;
+} 
+
+ #IconShape_5 
+{ 
+	 left: 873px; 
+	 top: 3961px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 73px;
+	 z-index:134;
+} 
+
+ #layer_135 
+{ 
+	 left: 898px; 
+	 top: 3995px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 6px;
+	 z-index:135;
+} 
+
+ #ImageBackground_12 
+{ 
+	 left: 374px; 
+	 top: 3954px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 273px;
+	 z-index:136;
+} 
+
+ #bigstockeducationsch 
+{ 
+	 left: 105px; 
+	 top: 3943px; 
+	 position: absolute; 
+	 width: 672px;
+	 height: 378px;
+	 z-index:137;
+} 
+
+ #MathTeacher 
+{ 
+	 left: 460px; 
+	 top: 4285px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 13px;
+	 z-index:138;
+} 
+
+ #AbigailAbby 
+{ 
+	 left: 419px; 
+	 top: 4246px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 29px;
+	 z-index:139;
+} 
+
+ #IconShape_6 
+{ 
+	 left: 573px; 
+	 top: 3961px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 73px;
+	 z-index:140;
+} 
+
+ #layer_141 
+{ 
+	 left: 598px; 
+	 top: 3995px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 6px;
+	 z-index:141;
+} 
+
+ #LineShape02_3 
+{ 
+	 left: 1009px; 
+	 top: 3752px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 4px;
+	 z-index:142;
+} 
+
+ #LineShape01_3 
+{ 
+	 left: 847px; 
+	 top: 3752px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 4px;
+	 z-index:143;
+} 
+
+ #KidsuresExpertsTrain 
+{ 
+	 left: 725px; 
+	 top: 3771px; 
+	 position: absolute; 
+	 width: 471px;
+	 height: 76px;
+	 z-index:144;
+} 
+
+ #ourteachers 
+{ 
+	 left: 919px; 
+	 top: 3745px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 13px;
+	 z-index:145;
+} 
+
+ #BackgroundShape_7 
+{ 
+	 left: -1px; 
+	 top: 3217px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 293px;
+	 z-index:146;
+} 
+
+ #10200PassedPupils 
+{ 
+	 left: 1334px; 
+	 top: 3278px; 
+	 position: absolute; 
+	 width: 248px;
+	 height: 77px;
+	 z-index:147;
+} 
+
+ #LineShape 
+{ 
+	 left: 1460px; 
+	 top: 3289px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 5px;
+	 z-index:148;
+} 
+
+ #102Classrooms 
+{ 
+	 left: 1007px; 
+	 top: 3278px; 
+	 position: absolute; 
+	 width: 210px;
+	 height: 71px;
+	 z-index:149;
+} 
+
+ #LineShape_0 
+{ 
+	 left: 1005px; 
+	 top: 3289px; 
+	 position: absolute; 
+	 width: 58px;
+	 height: 5px;
+	 z-index:150;
+} 
+
+ #LineShapecopy2 
+{ 
+	 left: 1159px; 
+	 top: 3289px; 
+	 position: absolute; 
+	 width: 58px;
+	 height: 5px;
+	 z-index:151;
+} 
+
+ #120Teachers 
+{ 
+	 left: 702px; 
+	 top: 3278px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 71px;
+	 z-index:152;
+} 
+
+ #LineShape_1 
+{ 
+	 left: 700px; 
+	 top: 3289px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 5px;
+	 z-index:153;
+} 
+
+ #LineShapecopy 
+{ 
+	 left: 832px; 
+	 top: 3289px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 5px;
+	 z-index:154;
+} 
+
+ #1920Students 
+{ 
+	 left: 375px; 
+	 top: 3278px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 71px;
+	 z-index:155;
+} 
+
+ #LineShape_2 
+{ 
+	 left: 374px; 
+	 top: 3289px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 5px;
+	 z-index:156;
+} 
+
+ #BackgroundShape_8 
+{ 
+	 left: 374px; 
+	 top: 3413px; 
+	 position: absolute; 
+	 width: 1172px;
+	 height: 191px;
+	 z-index:157;
+} 
+
+ #ButtonShape_0 
+{ 
+	 left: 1283px; 
+	 top: 3487px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 70px;
+	 z-index:158;
+} 
+
+ #Subscribe 
+{ 
+	 left: 1306px; 
+	 top: 3513px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 19px;
+	 z-index:159;
+} 
+
+ #BoxShape 
+{ 
+	 left: 884px; 
+	 top: 3490px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 63px;
+	 z-index:160;
+} 
+
+ #youremailhere 
+{ 
+	 left: 906px; 
+	 top: 3515px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 14px;
+	 z-index:161;
+} 
+
+ #LineShape_3 
+{ 
+	 left: 483px; 
+	 top: 3461px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 4px;
+	 z-index:162;
+} 
+
+ #SignupNewsletterforG 
+{ 
+	 left: 486px; 
+	 top: 3481px; 
+	 position: absolute; 
+	 width: 336px;
+	 height: 82px;
+	 z-index:163;
+} 
+
+ #newsletter 
+{ 
+	 left: 556px; 
+	 top: 3455px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 13px;
+	 z-index:164;
+} 
+
+ #ExpertTeachers 
+{ 
+	 left: 1258px; 
+	 top: 3103px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 19px;
+	 z-index:165;
+} 
+
+ #Shape_15 
+{ 
+	 left: 1249px; 
+	 top: 2920px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 169px;
+	 z-index:166;
+} 
+
+ #Icon 
+{ 
+	 left: 1287px; 
+	 top: 2958px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 94px;
+	 z-index:167;
+} 
+
+ #MusicLesson 
+{ 
+	 left: 1021px; 
+	 top: 3103px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 16px;
+	 z-index:168;
+} 
+
+ #Shape_16 
+{ 
+	 left: 1000px; 
+	 top: 2920px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 169px;
+	 z-index:169;
+} 
+
+ #Shape2 
+{ 
+	 left: 1040px; 
+	 top: 2955px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 93px;
+	 z-index:170;
+} 
+
+ #SafeTransportation 
+{ 
+	 left: 1364px; 
+	 top: 2842px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 19px;
+	 z-index:171;
+} 
+
+ #Shape_17 
+{ 
+	 left: 1373px; 
+	 top: 2659px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 169px;
+	 z-index:172;
+} 
+
+ #Shape1 
+{ 
+	 left: 1409px; 
+	 top: 2697px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 93px;
+	 z-index:173;
+} 
+
+ #NutritiousFood 
+{ 
+	 left: 1136px; 
+	 top: 2846px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 16px;
+	 z-index:174;
+} 
+
+ #Shape_18 
+{ 
+	 left: 1124px; 
+	 top: 2663px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 169px;
+	 z-index:175;
+} 
+
+ #Icon_0 
+{ 
+	 left: 1155px; 
+	 top: 2702px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 92px;
+	 z-index:176;
+} 
+
+ #LearningwithFun 
+{ 
+	 left: 875px; 
+	 top: 2843px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 20px;
+	 z-index:177;
+} 
+
+ #Shape_19 
+{ 
+	 left: 875px; 
+	 top: 2660px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 169px;
+	 z-index:178;
+} 
+
+ #Icon_1 
+{ 
+	 left: 907px; 
+	 top: 2690px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 111px;
+	 z-index:179;
+} 
+
+ #ButtonShape_1 
+{ 
+	 left: 374px; 
+	 top: 3039px; 
+	 position: absolute; 
+	 width: 318px;
+	 height: 70px;
+	 z-index:180;
+} 
+
+ #RequestforMoreServic 
+{ 
+	 left: 397px; 
+	 top: 3065px; 
+	 position: absolute; 
+	 width: 274px;
+	 height: 23px;
+	 z-index:181;
+} 
+
+ #Loremipsumdolorsitam_4 
+{ 
+	 left: 376px; 
+	 top: 2813px; 
+	 position: absolute; 
+	 width: 453px;
+	 height: 198px;
+	 z-index:182;
+} 
+
+ #LineShape_4 
+{ 
+	 left: 374px; 
+	 top: 2681px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 4px;
+	 z-index:183;
+} 
+
+ #TheBestFeaturesWehav 
+{ 
+	 left: 375px; 
+	 top: 2703px; 
+	 position: absolute; 
+	 width: 454px;
+	 height: 80px;
+	 z-index:184;
+} 
+
+ #ourservices 
+{ 
+	 left: 445px; 
+	 top: 2676px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 12px;
+	 z-index:185;
+} 
+
+ #LineShape_5 
+{ 
+	 left: -1px; 
+	 top: 2599px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 4px;
+	 z-index:186;
+} 
+
+ #ButtonShape_2 
+{ 
+	 left: 880px; 
+	 top: 2472px; 
+	 position: absolute; 
+	 width: 160px;
+	 height: 70px;
+	 z-index:187;
+} 
+
+ #BrowseAll_0 
+{ 
+	 left: 904px; 
+	 top: 2500px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 17px;
+	 z-index:188;
+} 
+
+ #ImageBackground_13 
+{ 
+	 left: -1px; 
+	 top: 1520px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 587px;
+	 z-index:189;
+} 
+
+ #Icons 
+{ 
+	 left: -169px; 
+	 top: 1520px; 
+	 position: absolute; 
+	 width: 509px;
+	 height: 596px;
+	 z-index:190;
+} 
+
+ #Iconscopy 
+{ 
+	 left: 1585px; 
+	 top: 1520px; 
+	 position: absolute; 
+	 width: 509px;
+	 height: 596px;
+	 z-index:191;
+} 
+
+ #BackgroundShape_9 
+{ 
+	 left: 1173px; 
+	 top: 2103px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 272px;
+	 z-index:192;
+} 
+
+ #Loremipsumdolorsitam_5 
+{ 
+	 left: 1211px; 
+	 top: 2276px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 68px;
+	 z-index:193;
+} 
+
+ #PlayingwithDollsothe_0 
+{ 
+	 left: 1252px; 
+	 top: 2195px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 51px;
+	 z-index:194;
+} 
+
+ #Playing 
+{ 
+	 left: 1334px; 
+	 top: 2166px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 16px;
+	 z-index:195;
+} 
+
+ #ImageBackground_14 
+{ 
+	 left: 1173px; 
+	 top: 1784px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 323px;
+	 z-index:196;
+} 
+
+ #kinderdagverblijfuit_0 
+{ 
+	 left: 1071px; 
+	 top: 1781px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 328px;
+	 z-index:197;
+} 
+
+ #OverlayShape_2 
+{ 
+	 left: 1173px; 
+	 top: 1784px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 323px;
+	 z-index:198;
+} 
+
+ #BackgroundShape_10 
+{ 
+	 left: 1304px; 
+	 top: 2024px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 113px;
+	 z-index:199;
+} 
+
+ #26Oct_0 
+{ 
+	 left: 1337px; 
+	 top: 2053px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 58px;
+	 z-index:200;
+} 
+
+ #Shape_20 
+{ 
+	 left: 1268px; 
+	 top: 1794px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 27px;
+	 z-index:201;
+} 
+
+ #entertainment_0 
+{ 
+	 left: 1284px; 
+	 top: 1801px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 12px;
+	 z-index:202;
+} 
+
+ #Shape_21 
+{ 
+	 left: 1184px; 
+	 top: 1794px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 27px;
+	 z-index:203;
+} 
+
+ #playing_0 
+{ 
+	 left: 1200px; 
+	 top: 1801px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 14px;
+	 z-index:204;
+} 
+
+ #BackgroundShape_11 
+{ 
+	 left: 773px; 
+	 top: 2103px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 312px;
+	 z-index:205;
+} 
+
+ #Loremipsumdolorsitam_6 
+{ 
+	 left: 811px; 
+	 top: 2276px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 68px;
+	 z-index:206;
+} 
+
+ #SketchandColorizethe_0 
+{ 
+	 left: 829px; 
+	 top: 2195px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 47px;
+	 z-index:207;
+} 
+
+ #Drawing 
+{ 
+	 left: 930px; 
+	 top: 2166px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 16px;
+	 z-index:208;
+} 
+
+ #ImageBackground_15 
+{ 
+	 left: 773px; 
+	 top: 1744px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 363px;
+	 z-index:209;
+} 
+
+ #cocomielcentroinfant_1 
+{ 
+	 left: 700px; 
+	 top: 1743px; 
+	 position: absolute; 
+	 width: 528px;
+	 height: 364px;
+	 z-index:210;
+} 
+
+ #OverlayShape_3 
+{ 
+	 left: 773px; 
+	 top: 1744px; 
+	 position: absolute; 
+	 width: 373px;
+	 height: 363px;
+	 z-index:211;
+} 
+
+ #BackgroundShape_12 
+{ 
+	 left: 903px; 
+	 top: 2024px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 113px;
+	 z-index:212;
+} 
+
+ #26Oct_1 
+{ 
+	 left: 937px; 
+	 top: 2053px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 58px;
+	 z-index:213;
+} 
+
+ #Shape_22 
+{ 
+	 left: 936px; 
+	 top: 1754px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 27px;
+	 z-index:214;
+} 
+
+ #colorize_0 
+{ 
+	 left: 952px; 
+	 top: 1761px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 12px;
+	 z-index:215;
+} 
+
+ #Shape_23 
+{ 
+	 left: 872px; 
+	 top: 1754px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 27px;
+	 z-index:216;
+} 
+
+ #play_0 
+{ 
+	 left: 889px; 
+	 top: 1761px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 14px;
+	 z-index:217;
+} 
+
+ #Shape_24 
+{ 
+	 left: 783px; 
+	 top: 1754px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 27px;
+	 z-index:218;
+} 
+
+ #drawing_0 
+{ 
+	 left: 799px; 
+	 top: 1761px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 14px;
+	 z-index:219;
+} 
+
+ #JoinNow 
+{ 
+	 left: 919px; 
+	 top: 2368px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 16px;
+	 z-index:220;
+} 
+
+ #BackgroundShape_13 
+{ 
+	 left: 374px; 
+	 top: 2103px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 272px;
+	 z-index:221;
+} 
+
+ #Loremipsumdolorsitam_7 
+{ 
+	 left: 411px; 
+	 top: 2276px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 68px;
+	 z-index:222;
+} 
+
+ #HandmadeCraftbyUsing_0 
+{ 
+	 left: 421px; 
+	 top: 2195px; 
+	 position: absolute; 
+	 width: 276px;
+	 height: 51px;
+	 z-index:223;
+} 
+
+ #Learning 
+{ 
+	 left: 529px; 
+	 top: 2166px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 16px;
+	 z-index:224;
+} 
+
+ #ImageBackground_16 
+{ 
+	 left: 374px; 
+	 top: 1784px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 323px;
+	 z-index:225;
+} 
+
+ #shutterstock39983996_0 
+{ 
+	 left: 235px; 
+	 top: 1754px; 
+	 position: absolute; 
+	 width: 576px;
+	 height: 385px;
+	 z-index:226;
+} 
+
+ #OverlayShape_4 
+{ 
+	 left: 374px; 
+	 top: 1784px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 323px;
+	 z-index:227;
+} 
+
+ #BackgroundShape_14 
+{ 
+	 left: 503px; 
+	 top: 2024px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 113px;
+	 z-index:228;
+} 
+
+ #26Oct_2 
+{ 
+	 left: 537px; 
+	 top: 2053px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 58px;
+	 z-index:229;
+} 
+
+ #Shape_25 
+{ 
+	 left: 533px; 
+	 top: 1794px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 27px;
+	 z-index:230;
+} 
+
+ #education_0 
+{ 
+	 left: 549px; 
+	 top: 1801px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 12px;
+	 z-index:231;
+} 
+
+ #Shape_26 
+{ 
+	 left: 472px; 
+	 top: 1794px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 27px;
+	 z-index:232;
+} 
+
+ #skill_0 
+{ 
+	 left: 488px; 
+	 top: 1801px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 12px;
+	 z-index:233;
+} 
+
+ #Shape_27 
+{ 
+	 left: 383px; 
+	 top: 1794px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 27px;
+	 z-index:234;
+} 
+
+ #learning_0 
+{ 
+	 left: 400px; 
+	 top: 1801px; 
+	 position: absolute; 
+	 width: 51px;
+	 height: 14px;
+	 z-index:235;
+} 
+
+ #LineShape02_4 
+{ 
+	 left: 1012px; 
+	 top: 1584px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 4px;
+	 z-index:236;
+} 
+
+ #LineShape01_4 
+{ 
+	 left: 839px; 
+	 top: 1584px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 4px;
+	 z-index:237;
+} 
+
+ #KidsuresClassesEvent 
+{ 
+	 left: 735px; 
+	 top: 1604px; 
+	 position: absolute; 
+	 width: 451px;
+	 height: 82px;
+	 z-index:238;
+} 
+
+ #ourprograms 
+{ 
+	 left: 915px; 
+	 top: 1582px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 12px;
+	 z-index:239;
+} 
+
+ #CurvedShape 
+{ 
+	 left: -5px; 
+	 top: 947px; 
+	 position: absolute; 
+	 width: 763px;
+	 height: 641px;
+	 z-index:240;
+} 
+
+ #Image 
+{ 
+	 left: 200px; 
+	 top: 1004px; 
+	 position: absolute; 
+	 width: 712px;
+	 height: 461px;
+	 z-index:241;
+} 
+
+ #ButtonShape_3 
+{ 
+	 left: 974px; 
+	 top: 1353px; 
+	 position: absolute; 
+	 width: 159px;
+	 height: 70px;
+	 z-index:242;
+} 
+
+ #ReadMore_0 
+{ 
+	 left: 997px; 
+	 top: 1381px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 17px;
+	 z-index:243;
+} 
+
+ #Loremipsumdolorsitam_8 
+{ 
+	 left: 975px; 
+	 top: 1127px; 
+	 position: absolute; 
+	 width: 565px;
+	 height: 198px;
+	 z-index:244;
+} 
+
+ #LineShape_6 
+{ 
+	 left: 974px; 
+	 top: 1002px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 4px;
+	 z-index:245;
+} 
+
+ #WelcometotheKidsureK 
+{ 
+	 left: 975px; 
+	 top: 1023px; 
+	 position: absolute; 
+	 width: 387px;
+	 height: 80px;
+	 z-index:246;
+} 
+
+ #aboutus 
+{ 
+	 left: 1045px; 
+	 top: 995px; 
+	 position: absolute; 
+	 width: 58px;
+	 height: 13px;
+	 z-index:247;
+} 
+
+ #Rectangle1 
+{ 
+	 left: -1px; 
+	 top: 143px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 703px;
+	 z-index:248;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 967px; 
+	 top: 245px; 
+	 position: absolute; 
+	 width: 340px;
+	 height: 387px;
+	 z-index:249;
+} 
+
+ #CurvedShape_0 
+{ 
+	 left: 700px; 
+	 top: 136px; 
+	 position: absolute; 
+	 width: 1231px;
+	 height: 1034px;
+	 z-index:250;
+} 
+
+ #Image_0 
+{ 
+	 left: 908px; 
+	 top: 330px; 
+	 position: absolute; 
+	 width: 635px;
+	 height: 509px;
+	 z-index:251;
+} 
+
+ #Shape_28 
+{ 
+	 left: 908px; 
+	 top: 793px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 103px;
+	 z-index:252;
+} 
+
+ #layer_253 
+{ 
+	 left: 948px; 
+	 top: 833px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:253;
+} 
+
+ #ButtonShape_4 
+{ 
+	 left: 374px; 
+	 top: 606px; 
+	 position: absolute; 
+	 width: 159px;
+	 height: 70px;
+	 z-index:254;
+} 
+
+ #EnrollNow 
+{ 
+	 left: 395px; 
+	 top: 633px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 17px;
+	 z-index:255;
+} 
+
+ #ButtonShape_5 
+{ 
+	 left: 545px; 
+	 top: 606px; 
+	 position: absolute; 
+	 width: 160px;
+	 height: 70px;
+	 z-index:256;
+} 
+
+ #ReadMore_1 
+{ 
+	 left: 569px; 
+	 top: 634px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 17px;
+	 z-index:257;
+} 
+
+ #Loremipsumdolorsitam_9 
+{ 
+	 left: 375px; 
+	 top: 506px; 
+	 position: absolute; 
+	 width: 533px;
+	 height: 42px;
+	 z-index:258;
+} 
+
+ #ItsTimetoLearnMore 
+{ 
+	 left: 375px; 
+	 top: 317px; 
+	 position: absolute; 
+	 width: 411px;
+	 height: 161px;
+	 z-index:259;
+} 
+
+ #HomeAboutus 
+{ 
+	 left: 895px; 
+	 top: 100px; 
+	 position: absolute; 
+	 width: 650px;
+	 height: 20px;
+	 z-index:260;
+} 
+
+ #LineShape_7 
+{ 
+	 left: 872px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 673px;
+	 height: 4px;
+	 z-index:261;
+} 
+
+ #YellowShap 
+{ 
+	 left: 1376px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 5px;
+	 z-index:262;
+} 
+
+ #GreenShape 
+{ 
+	 left: 1165px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 5px;
+	 z-index:263;
+} 
+
+ #kidsafegmailcom 
+{ 
+	 left: 1378px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 17px;
+	 z-index:264;
+} 
+
+ #layer_88012345687321 
+{ 
+	 left: 1167px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 16px;
+	 z-index:265;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 375px; 
+	 top: 45px; 
+	 position: absolute; 
+	 width: 291px;
+	 height: 56px;
+	 z-index:266;
+} 
+
+ #OverlayShape_5 
+{ 
+	 left: 374px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1172px;
+	 height: 7002px;
+	 z-index:267;
+} 

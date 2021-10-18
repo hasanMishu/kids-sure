@@ -1,0 +1,154 @@
+/*========================== extra small dev start ==============================*/
+@media (min-width: 320px) and (max-width: 575px) {
+    .headerTopLeft .item:nth-child(1) {
+        display: none;
+    }
+
+    .headerTopRight {
+        display: none;
+    }
+
+    .navbar-nav {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .dropdown-menu {
+        text-align: center;
+    }
+
+    .sticky {
+        background: #ffffff;
+        color: #363636;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 222;
+    }
+
+    .sticky a {
+        color: #363636;
+    }
+
+    .chart {
+        display: none !important;
+    }
+
+    .banner-content {
+        margin-top: 30px;
+    }
+
+    .banner-content p {
+        width: 290px !important;
+    }
+
+    .banner-content .buttons a {
+        margin: 15px 0
+    }
+
+    .title p {
+        width: 340px !important;
+    }
+
+    #portfolio .portfolioMenu ul {
+        display: block;
+    }
+
+    #portfolio .portfolioItems {
+        display: block;
+    }
+
+    #portfolio .portfolioItems .portfolioItem {
+        width: 100%;
+    }
+
+    #about .title p {
+        width: 170px !important;
+    }
+
+    #why .slick-list {
+        height: 600px !important;
+    }
+
+    #blog .blog_content_image {
+        display: none;
+    }
+
+    #blog .blog_content_image .blog_content_overlay {
+        display: none !important;
+    }
+
+    .theme_option_img {
+        display: none !important;
+    }
+
+    .theme_option_text {
+        padding: 100px 0;
+    }
+}
+
+/*========================== extra small dev stop ==============================*/
+/*============================= smalll start dev =================================*/
+@media (min-width: 576px) and (max-width: 767px) {
+    .headerTopLeft .item:nth-child(1) {
+        display: none;
+    }
+
+    .headerTopRight {
+        display: none;
+    }
+
+    .navbar-nav {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .dropdown-menu {
+        text-align: center;
+    }
+
+    .sticky {
+        background: #ffffff;
+        color: #363636;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 222;
+    }
+
+    .sticky a {
+        color: #363636;
+    }
+
+    .chart {
+        display: none !important;
+    }
+
+    #portfolio .portfolioItems {
+        justify-content: center;
+    }
+
+    #portfolio .portfolioItems .portfolioItem {
+        width: 384px;
+    }
+
+    #about .title p {
+        width: 100%;;
+    }
+
+    #why .slick-list {
+        height: 460px !important;
+    }
+
+    .theme_option_img {
+        display: none !important;
+    }
+
+    .theme_option_text {
+        padding: 100px 0;
+    }
+}
+
+/*============================= smalll stop dev =================================*/

@@ -1,0 +1,67 @@
+/*common css start*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ol, ul, li {
+    list-style: none;
+    display: inline-block;
+}
+
+a, a:hover, a:focus {
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 0;
+}
+
+body {
+    overflow-x: hidden;
+    position: relative;
+}
+
+.title {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.title h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #363636;
+}
+
+.title p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    color: #959595;
+    padding: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.title p::before {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    content: "";
+    width: 40%;
+    height: 3px;
+    transition: 0.4s;
+    background: #363636;
+    transform: translateX(-50%);
+
+}
+
+/*common css stop*/
+
+
+
